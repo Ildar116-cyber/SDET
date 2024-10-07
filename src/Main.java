@@ -11,9 +11,9 @@ public class Main {
         niva1.insurancePrice();
         Niva niva2 = new Niva(2012 , 110000.0 , "Хаки" ," " ,985);
         niva2.getInfoAboutCar();
-        Vesta vesta1 = new Vesta(2019 , 75000.0 , "Красный","Седан",1280,106);
+        Vesta vesta1 = new Vesta(2019 , 77000.0 , "Красный","Седан",1280,106);
         vesta1.getInfoAboutCar();
-        Vesta vesta2 = new Vesta(2016 , 250400.0 , "Лаймовый","SW CROSS");
+        Vesta vesta2 = new Vesta(2016 , 260400.0 , "Лаймовый","SW CROSS");
         vesta2.setEnginePower(145);
         vesta2.insurancePrice();
         vesta2.getInfoAboutCar();
